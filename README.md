@@ -70,3 +70,24 @@ Quantumult使用教程：[点击查看](https://youtu.be/qCkjLMPKygw)
 Quantumult X使用教程：[点击查看](https://youtu.be/ghZLHPEGfVc)
 
 shadowrocket使用教程：[点击查看](https://youtu.be/kGKKr6WTrJc)
+
+# 机场推荐(每天200G流量，防止失联请加下方官网群)
+🔥小鲤鱼机场开业啦！本站使用先进的Hysteria协议， 并且起步价格为5元包月使用1000G流量，注意：使用前请确保您是否下载了本站匹配的客户端！ 线路节点遍布全球多个国家，并且使用机场界领先的技术对您进行服务。 全程保障您的安全与速度与稳定性兼顾，打造最舒适的科学上网环境尽在小鲤鱼！ 开业大酬宾，限时放送8折优惠码：BAAGNQmO
+
+👉小鲤鱼官网： https://www.xiaoliyu.me
+
+👉用户使用面板： https://p.xiaoliyu.me
+
+👉防失联发布页： https://xiaoliyudh.github.io
+
+👉小鲤鱼官方群：https://t.me/xiaoliyu999
+
+👉小鲤鱼主频道：https://t.me/xiaoliyu996
+
+支持：苹果Shadowrocket、苹果Sing-Box客户端、电脑Clash Verge客户端、安卓/鸿蒙Nekobox客户端、安卓/鸿蒙Clash Meta客户端、路由器 梅林/OpenWrt
+
+（实在不会使用的，请进群看教程）
+
+节点每天更换
+
+✈️ 免费订阅： https://jmi23e3y.xiaoliyu.xyz:8443/api/v1/client/0e2d31509172633cfa518597d84ef02e
